@@ -1086,6 +1086,8 @@ and Dmitry Pavlov. It uses BFGS for local optimization and two different forms o
 
 [enhanced-allocatables](https://github.com/PierUgit/enhanced-allocatables): proposal to extend allocatable arrays to be dynamically reallocatable/resizable, with an implementation that calls C++, by PierUgit
 
+[farena](https://github.com/dacarnazzola/farena): simple Fortran Arena Allocator for Real Arrays, by dacarnazzola. It supports arrays from rank 1-15, and will take either 32-bit or 64-bit integer dimensions for 1D requests.
+
 [fll](https://github.com/libm3l/fll): multi-level linked list library with parallel I/O, used in a project described in [Recent Developments in Fun3D and LoCi/CHEM CFD Codes Towards Multiphysics Modeling](https://arc.aiaa.org/doi/10.2514/6.2020-1033), by A. Jirasek and J. Seidel (2020)
 
 [for_fifo_queue](https://github.com/jordan4ibanez/for_fifo_queue): dense linked fifo queue, by jordan4ibanez. It is dense because it allows unlimited polymorphism in the queue without using additional indirection.
