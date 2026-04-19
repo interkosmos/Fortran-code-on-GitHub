@@ -5702,6 +5702,8 @@ described in more detail in his book [Subset Selection in Regression](https://ww
 
 [parff](https://github.com/everythingfunctional/parff): functional style parser combinator library, by Brad Richardson and Patrick Raynaud. By using a library like this, it is possible to implement parsers for complex formats by composing independent little pieces. 
 
+[regex_f](https://github.com/sgeard/regex_f): wrapper by sgeard of the regex engine in Tcl by Henry Spencer
+
 [ryu_fortran](https://github.com/St-Maxwell/ryu_fortran): Ryu algorithm which converts floating point numbers to decimal strings, by St Maxwell. It is more effective than internal file approach. This implementation is based on the Scala version of Ryu.
 
 [scanner](https://github.com/freevryheid/scanner): text scanner for parsing, by Andre Smit
